@@ -8,7 +8,7 @@
 - Altere o idioma em configurações para Português (Brasil)
 
 # Onde Obter
-- SRD: https://www.burobrasil.com/blades-in-the-dark-srd/rituais/
+- SRD: https://www.burobrasil.com/blades-in-the-dark-srd/
 - Comprar os materiais em Português (Brasil): https://loja.burobrasil.com/
 
 # Credits/License   
