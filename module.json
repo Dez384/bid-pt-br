@@ -3,11 +3,15 @@
   "title":"Blades in the Dark - Português (Brasil)",
   "description":"",
   
-  "version":"0.2.3",
+  "version":"0.2.4",
   "authors":[
     {
       "name":"Mestre Digital",
       "url":"https://youtube.com/mestredigital"
+    },
+    {
+      "name":"Lucas Picoli",
+      "url":"https://github.com/LucasPicoli"
     }
   ],
   
